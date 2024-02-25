@@ -1,5 +1,5 @@
 <p align="center">
- <h1 align="center">Balland</h1>
+ <h1 align="center">Axie: FARLAND</h1>
 </p>
 
 ## Introduction
@@ -10,4 +10,4 @@ Axie: FARLAND is a dynamic action RPG with Rogue-like elements. Each playthrough
 The project for the Axie Game Jam 2023 competition with the theme "Stronger, Faster, Better" was carried out individually within a 14-day period.
 
 ## More Infomation
-[Axie: Farland] https://tranthanhloisd.wixsite.com/duuukieee/axiefarland
+[Axie: FARLAND] https://tranthanhloisd.wixsite.com/duuukieee/axiefarland
