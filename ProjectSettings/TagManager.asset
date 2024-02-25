@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rooms
+  - SpawnPoint
+  - PlayerAnim
+  - Enemy
+  - RoomArea
+  - SpawnEnemy
+  - UndefeatEnemy
+  - Mushroom
+  - GruzMother
+  - Nofitication
+  - Magnet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Boss
+  - Water
+  - UI
+  - BasicRoom
+  - Player
+  - Room
+  - Enemy
+  - Door
+  - Skill
+  - Wall
+  - Object
+  - AttackLayer
+  - Magnet
+  - Destroyer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Transition
+    uniqueID: 1131995871
+    locked: 0
